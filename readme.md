@@ -1,0 +1,1 @@
+Starcraft careers visualized in a hierarchal bar chart, thanks to [coydoras](http://www.teamliquid.net/forum/starcraft-2/500829-length-of-sc2-careers-statistics)

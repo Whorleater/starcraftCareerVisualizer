@@ -91,7 +91,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "desRow", 
               "size": 1866
             }
@@ -120,7 +120,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Jieshi", 
               "size": 480
             }
@@ -492,31 +492,31 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "anypro", 
               "size": 541
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "LegalMind", 
               "size": 294
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BanBans", 
               "size": 327
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Brown", 
               "size": 926
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Flying", 
               "size": 1053
             }, 
@@ -528,43 +528,43 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Blaze", 
               "size": 1082
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Ruin", 
               "size": 1110
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "ParalyzE", 
               "size": 1649
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "TAiLS", 
               "size": 1505
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Avenge", 
               "size": 1387
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Hush", 
               "size": 1320
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Trust", 
               "size": 1065
             }, 
@@ -576,67 +576,67 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "HwangSin", 
               "size": 888
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Cal", 
               "size": 690
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "firebathero", 
               "size": 120
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Leta", 
               "size": 697
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Believe", 
               "size": 867
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Motive", 
               "size": 582
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "eMotion", 
               "size": 1032
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Trend", 
               "size": 777
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Kop", 
               "size": 641
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Zoun", 
               "size": 1032
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Billowy", 
               "size": 1619
             }, 
@@ -648,133 +648,133 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BeSt", 
               "size": 432
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Comet", 
               "size": 242
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Mini", 
               "size": 468
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "ToSsGirL", 
               "size": 302
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Aria", 
               "size": 540
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BisAnG", 
               "size": 319
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "free", 
               "size": 540
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Pure", 
               "size": 46
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Argo", 
               "size": 651
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Barbie", 
               "size": 539
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Splendid", 
               "size": 316
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Remember", 
               "size": 305
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "cOre", 
               "size": 509
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "GuineaPig", 
               "size": 330
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Swagger", 
               "size": 1391
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "StuN", 
               "size": 564
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Ssoja", 
               "size": 1921
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Booster", 
               "size": 596
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "MisS", 
               "size": 974
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "AcE", 
               "size": 1311
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Hoon", 
               "size": 125
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "TREME", 
               "size": 822
             }
@@ -785,7 +785,7 @@
           "children": [
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Krr", 
               "size": 2092
             }
@@ -853,7 +853,7 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Siw", 
               "size": 884
             }
@@ -904,7 +904,7 @@
           "children": [
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Nifi", 
               "size": 410
             }, 
@@ -985,31 +985,31 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "hellokitty", 
               "size": 1123
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Neeb", 
               "size": 1009
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Arium", 
               "size": 916
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Astrea", 
               "size": 1615
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Hitman", 
               "size": 916
             }
@@ -1025,7 +1025,7 @@
           "children": [
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Brain", 
               "size": 478
             }
@@ -1052,7 +1052,7 @@
           "children": [
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Kelazhur", 
               "size": 1032
             }
@@ -1075,7 +1075,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "MaSa", 
               "size": 1297
             }
@@ -1104,7 +1104,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Shana", 
               "size": 861
             }
@@ -1154,13 +1154,13 @@
           "children": [
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "KrasS", 
               "size": 1566
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "HeRoMaRinE", 
               "size": 1517
             }
@@ -1410,61 +1410,61 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Hyperdub", 
               "size": 338
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Clide", 
               "size": 698
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Lyn", 
               "size": 267
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "sC", 
               "size": 1412
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Virus", 
               "size": 497
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Happy", 
               "size": 638
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Noblesse", 
               "size": 1337
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "asd", 
               "size": 724
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "GanZi", 
               "size": 1107
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Last", 
               "size": 579
             }, 
@@ -1476,193 +1476,193 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sorry", 
               "size": 1584
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "SkyHigh", 
               "size": 1286
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Shuttle", 
               "size": 955
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Canata", 
               "size": 60
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Iris", 
               "size": 217
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Organ", 
               "size": 499
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Snow", 
               "size": 751
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Horang2", 
               "size": 206
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Miso", 
               "size": 1199
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BarrrackS", 
               "size": 582
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Mind", 
               "size": 667
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BrAvO", 
               "size": 1320
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Guilty", 
               "size": 1009
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Journey", 
               "size": 1001
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "TurN", 
               "size": 907
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sharp", 
               "size": 143
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "DynaMite", 
               "size": 773
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "sSak", 
               "size": 590
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Hanbin", 
               "size": 284
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Light", 
               "size": 485
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sea", 
               "size": 409
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Neige", 
               "size": 410
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "TANGTANG", 
               "size": 276
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Forte", 
               "size": 1390
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "eins", 
               "size": 363
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "BitByBit", 
               "size": 813
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "dreamertt", 
               "size": 517
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "NaTuRal", 
               "size": 157
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Center", 
               "size": 1092
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Aphrodite", 
               "size": 1460
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sound", 
               "size": 1053
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sparta", 
               "size": 673
             }
@@ -1679,7 +1679,7 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Maker", 
               "size": 1335
             }
@@ -1853,19 +1853,19 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "theognis", 
               "size": 772
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Illusion", 
               "size": 1645
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Xenocider", 
               "size": 1268
             }
@@ -1899,7 +1899,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "PiG", 
               "size": 1530
             }
@@ -1950,7 +1950,7 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "hendralisk", 
               "size": 802
             }
@@ -1996,13 +1996,13 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Courage", 
               "size": 1515
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "iAsonu", 
               "size": 760
             }
@@ -2064,7 +2064,7 @@
           "children": [
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "iceiceice", 
               "size": 1206
             }
@@ -2237,7 +2237,7 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "YugiOh", 
               "size": 1140
             }, 
@@ -2285,223 +2285,223 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "jookTo", 
               "size": 957
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "TheWinD", 
               "size": 423
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "SuHoSin", 
               "size": 1457
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sniper", 
               "size": 1404
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Crazy", 
               "size": 582
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Shine", 
               "size": 1320
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "RagnaroK", 
               "size": 1614
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "hyvaa", 
               "size": 802
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sleep", 
               "size": 1872
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "SonGDuri", 
               "size": 569
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "PenguiN", 
               "size": 1064
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "OriOn", 
               "size": 60
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Rare", 
               "size": 663
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Action", 
               "size": 1074
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "hitmaN", 
               "size": 851
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "HoeJJA", 
               "size": 851
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Cacia", 
               "size": 582
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Armani", 
               "size": 1032
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "oDin", 
               "size": 850
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Mamuri", 
               "size": 1400
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "s2", 
               "size": 253
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "SSanaEE", 
               "size": 386
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "YoungJoo", 
               "size": 522
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Calm", 
               "size": 449
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Modesty", 
               "size": 195
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "KassiA", 
               "size": 585
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "ZerO", 
               "size": 522
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Adios", 
               "size": 393
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "DeParture", 
               "size": 1527
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Ready", 
               "size": 517
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "horror", 
               "size": 1908
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Mysticism", 
               "size": 1544
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "CrazymoviNG", 
               "size": 1337
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Pet", 
               "size": 1527
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Slam", 
               "size": 1100
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Zero", 
               "size": 817
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "KingKong", 
               "size": 1580
             }
@@ -2523,7 +2523,7 @@
           "children": [
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "JazBas", 
               "size": 913
             }, 
@@ -2563,19 +2563,19 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Tefel", 
               "size": 1939
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "uzer", 
               "size": 245
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Elazer", 
               "size": 758
             }
@@ -2637,7 +2637,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Miniraser", 
               "size": 1819
             }
@@ -2672,7 +2672,7 @@
             }, 
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Slam", 
               "size": 724
             }
@@ -2711,7 +2711,7 @@
           "children": [
             {
               "Active": "False", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "Sheth", 
               "size": 1013
             }, 
@@ -2747,7 +2747,7 @@
             }, 
             {
               "Active": "True", 
-              "Best Result": NaN, 
+              "Best Result": "", 
               "name": "guitarcheese", 
               "size": 1024
             }

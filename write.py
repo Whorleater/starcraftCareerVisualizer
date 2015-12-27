@@ -43,7 +43,7 @@ for race in pd.unique(data.Race.ravel()):
         nationalityData = raceData.loc[raceData["Nationality"] == nationality]
         playerData = nationalityData[["Name","Best result (totally biased selection)", "Career start", "Career end"]]
         for index, row in playerData.iterrows():
-            nationalityChild.children.append({"name": row["Name"], "Best Result": row["Best result (totally biased selection)"], "size": careerLength(row["Career start"], row["Career end"]), "Active" : "True" if row["Career end"] == "12/31/15" else "False"})
+            nationalityChild.children.append({"name": row["Name"], "Best Result": "" if pd.isnull(row["Best result (totally biased selection)"]) else row["Best result (totally biased selection)"], "size": careerLength(row["Career start"], row["Career end"]), "Active" : "True" if row["Career end"] == "12/31/15" else "False"})
         
 import json
 json_str = json.dumps(tree, sort_keys=True, indent=2, ensure_ascii=False)

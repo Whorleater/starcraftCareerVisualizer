@@ -5,8 +5,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "World Championship Series: Argentina Nationals winner", 
+              "active": "False", 
+              "bestResult": "World Championship Series: Argentina Nationals winner", 
               "name": "Capoch", 
               "size": 587
             }
@@ -16,8 +16,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 StarCraft II World Championship Series: Oceania Finals top4", 
+              "active": "False", 
+              "bestResult": "2012 StarCraft II World Championship Series: Oceania Finals top4", 
               "name": "Light", 
               "size": 510
             }
@@ -27,8 +27,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 DreamHack Open: Winter top4", 
+              "active": "False", 
+              "bestResult": "2012 DreamHack Open: Winter top4", 
               "name": "monchi", 
               "size": 840
             }
@@ -38,8 +38,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - World Championship top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - World Championship top4", 
               "name": "Feast", 
               "size": 1196
             }
@@ -49,8 +49,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: South America Finals top3", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: South America Finals top3", 
               "name": "Levin", 
               "size": 624
             }
@@ -60,38 +60,38 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "Win DH Summer 2011", 
+              "active": "True", 
+              "bestResult": "Win DH Summer 2011", 
               "name": "HuK", 
               "size": 2023
             }, 
             {
-              "Active": "False", 
-              "Best Result": "World Cyber Games 2012 top8", 
+              "active": "False", 
+              "bestResult": "World Cyber Games 2012 top8", 
               "name": "CombatEX", 
               "size": 500
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - American Championships top6", 
+              "active": "False", 
+              "bestResult": "IEM Season V - American Championships top6", 
               "name": "SUGGY", 
               "size": 171
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2011 MLG Dallas top2", 
+              "active": "True", 
+              "bestResult": "2011 MLG Dallas top2", 
               "name": "KiWiKaKi", 
               "size": 1983
             }, 
             {
-              "Active": "False", 
-              "Best Result": "MLG Dallas 2010 top2", 
+              "active": "False", 
+              "bestResult": "MLG Dallas 2010 top2", 
               "name": "TT1", 
               "size": 1256
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "desRow", 
               "size": 1866
             }
@@ -101,26 +101,26 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "World Cyber Games 2012 top3", 
+              "active": "True", 
+              "bestResult": "World Cyber Games 2012 top3", 
               "name": "MacSed", 
               "size": 2101
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season IX - Shenzhen top4", 
+              "active": "True", 
+              "bestResult": "IEM Season IX - Shenzhen top4", 
               "name": "Jim", 
               "size": 1766
             }, 
             {
-              "Active": "False", 
-              "Best Result": "World E-sport Championships 2014 top6", 
+              "active": "False", 
+              "bestResult": "World E-sport Championships 2014 top6", 
               "name": "Top", 
               "size": 1438
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Jieshi", 
               "size": 480
             }
@@ -130,8 +130,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2013 WCS Season 1 Europe top8", 
+              "active": "False", 
+              "bestResult": "2013 WCS Season 1 Europe top8", 
               "name": "BabyKnight", 
               "size": 1136
             }
@@ -141,14 +141,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Season 1 Europe top8", 
+              "active": "True", 
+              "bestResult": "2014 WCS Season 1 Europe top8", 
               "name": "Welmu", 
               "size": 1835
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season VI - Global Challenge Guangzhou top2", 
+              "active": "True", 
+              "bestResult": "IEM Season VI - Global Challenge Guangzhou top2", 
               "name": "elfi", 
               "size": 1908
             }
@@ -158,26 +158,26 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 3 winner", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 3 winner", 
               "name": "Lilbow", 
               "size": 1040
             }, 
             {
-              "Active": "False", 
-              "Best Result": "World Cyber Games 2012 top2", 
+              "active": "False", 
+              "bestResult": "World Cyber Games 2012 top2", 
               "name": "Adelscott", 
               "size": 918
             }, 
             {
-              "Active": "False", 
-              "Best Result": "Electronic Sports World Cup 2012 top4", 
+              "active": "False", 
+              "bestResult": "Electronic Sports World Cup 2012 top4", 
               "name": "NeOAnGeL", 
               "size": 1136
             }, 
             {
-              "Active": "False", 
-              "Best Result": "LE TOD AND HIS LE MASSEHSHIP COHR! <3", 
+              "active": "False", 
+              "bestResult": "LE TOD AND HIS LE MASSEHSHIP COHR! <3", 
               "name": "ToD", 
               "size": 1613
             }
@@ -187,32 +187,32 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VII - Katowice top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VII - Katowice top4", 
               "name": "Socke", 
               "size": 1866
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Guangzhou top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Guangzhou top4", 
               "name": "HasuObs", 
               "size": 1903
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 1 top4", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 1 top4", 
               "name": "ShoWTimE", 
               "size": 1200
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 3 top8", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 3 top8", 
               "name": "GunGFuBanDa", 
               "size": 922
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season V - European Championships top6", 
+              "active": "True", 
+              "bestResult": "IEM Season V - European Championships top6", 
               "name": "GoOdy", 
               "size": 1978
             }
@@ -222,8 +222,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VIII - Sao Paulo top8", 
+              "active": "False", 
+              "bestResult": "IEM Season VIII - Sao Paulo top8", 
               "name": "ABomB", 
               "size": 684
             }
@@ -233,548 +233,548 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 season 1 GSL top2", 
+              "active": "False", 
+              "bestResult": "2012 season 1 GSL top2", 
               "name": "Genius", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 Battle.net World Championship top2", 
+              "active": "True", 
+              "bestResult": "2012 Battle.net World Championship top2", 
               "name": "Creator", 
               "size": 1545
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 1 America winner", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 1 America winner", 
               "name": "HerO", 
               "size": 1770
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 3 winner", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 3 winner", 
               "name": "herO", 
               "size": 1518
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2015 Global StarCraft II League Season 2 winner", 
+              "active": "False", 
+              "bestResult": "2015 Global StarCraft II League Season 2 winner", 
               "name": "Rain", 
               "size": 1907
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 Battle.net World Championship winner", 
+              "active": "True", 
+              "bestResult": "2012 Battle.net World Championship winner", 
               "name": "PartinG", 
               "size": 1479
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 GSL Code S: Season 3 winner", 
+              "active": "True", 
+              "bestResult": "2012 GSL Code S: Season 3 winner", 
               "name": "Seed", 
               "size": 1478
             }, 
             {
-              "Active": "False", 
-              "Best Result": "WCS: South South Korea Nationals top2", 
+              "active": "False", 
+              "bestResult": "WCS: South South Korea Nationals top2", 
               "name": "Squirtle", 
               "size": 1552
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 3 winner", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 3 winner", 
               "name": "Dear", 
               "size": 1320
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - World Championship winner", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - World Championship winner", 
               "name": "MC", 
               "size": 1753
             }, 
             {
-              "Active": "True", 
-              "Best Result": "Anything with $100.000 main prize", 
+              "active": "True", 
+              "bestResult": "Anything with $100.000 main prize", 
               "name": "sOs", 
               "size": 1518
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2013 WCS Season 2 Europe winner", 
+              "active": "False", 
+              "bestResult": "2013 WCS Season 2 Europe winner", 
               "name": "duckdeok", 
               "size": 1093
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VIII - Shanghai top2", 
+              "active": "False", 
+              "bestResult": "IEM Season VIII - Shanghai top2", 
               "name": "Oz", 
               "size": 1504
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season IX - World Championship top2", 
+              "active": "True", 
+              "bestResult": "IEM Season IX - World Championship top2", 
               "name": "Trap", 
               "size": 1306
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VII - Katowice winner", 
+              "active": "False", 
+              "bestResult": "IEM Season VII - Katowice winner", 
               "name": "First", 
               "size": 1282
             }, 
             {
-              "Active": "True", 
-              "Best Result": "North American Star League Season 3 top2", 
+              "active": "True", 
+              "bestResult": "North American Star League Season 3 top2", 
               "name": "Alicia", 
               "size": 1857
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Season 2 Europe winner", 
+              "active": "True", 
+              "bestResult": "2014 WCS Season 2 Europe winner", 
               "name": "StarDust", 
               "size": 1984
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2013 WCS Season 1 America top8", 
+              "active": "False", 
+              "bestResult": "2013 WCS Season 1 America top8", 
               "name": "CranK", 
               "size": 1482
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season IX - World Championship winner", 
+              "active": "True", 
+              "bestResult": "IEM Season IX - World Championship winner", 
               "name": "Zest", 
               "size": 1318
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 Global StarCraft II League Season 2 winner", 
+              "active": "True", 
+              "bestResult": "2014 Global StarCraft II League Season 2 winner", 
               "name": "Classic", 
               "size": 1905
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 WCS Season 2 America winner", 
+              "active": "False", 
+              "bestResult": "2014 WCS Season 2 America winner", 
               "name": "Pigbaby", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 DreamHack Open: Winter top4", 
+              "active": "True", 
+              "bestResult": "2013 DreamHack Open: Winter top4", 
               "name": "Patience", 
               "size": 1227
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Season 1 America top8", 
+              "active": "True", 
+              "bestResult": "2014 WCS Season 1 America top8", 
               "name": "Arthur", 
               "size": 1376
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 DreamHack Open: Moscow top8", 
+              "active": "False", 
+              "bestResult": "2014 DreamHack Open: Moscow top8", 
               "name": "Daisy", 
               "size": 1610
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 1 top4", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 1 top4", 
               "name": "Stats", 
               "size": 1319
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 Global StarCraft II League Season 2 top8", 
+              "active": "True", 
+              "bestResult": "2015 Global StarCraft II League Season 2 top8", 
               "name": "MyuNgSiK", 
               "size": 1285
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2015 Global StarCraft II League Season 1 top12", 
+              "active": "False", 
+              "bestResult": "2015 Global StarCraft II League Season 1 top12", 
               "name": "Terminator", 
               "size": 1457
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 1 top8", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 1 top8", 
               "name": "Super", 
               "size": 1842
             }, 
             {
-              "Active": "True", 
-              "Best Result": "ASUS ROG Winter 2014 winner", 
+              "active": "True", 
+              "bestResult": "ASUS ROG Winter 2014 winner", 
               "name": "San", 
               "size": 1900
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 2 top12", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 2 top12", 
               "name": "Hurricane", 
               "size": 1527
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season V - Global Challenge Cologne winner", 
+              "active": "True", 
+              "bestResult": "IEM Season V - Global Challenge Cologne winner", 
               "name": "MorroW", 
               "size": 2105
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 Global StarCraft II League July: Code A winner", 
+              "active": "False", 
+              "bestResult": "2011 Global StarCraft II League July: Code A winner", 
               "name": "Puzzle", 
               "size": 1076
             }, 
             {
-              "Active": "True", 
-              "Best Result": "World Cyber Games 2013 top2", 
+              "active": "True", 
+              "bestResult": "World Cyber Games 2013 top2", 
               "name": "Sora", 
               "size": 921
             }, 
             {
-              "Active": "False", 
-              "Best Result": "LG Cinema 3D Special League top4", 
+              "active": "False", 
+              "bestResult": "LG Cinema 3D Special League top4", 
               "name": "Sage", 
               "size": 1342
             }, 
             {
-              "Active": "False", 
-              "Best Result": "HomeStory Cup IV top3", 
+              "active": "False", 
+              "bestResult": "HomeStory Cup IV top3", 
               "name": "JYP", 
               "size": 1661
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - World Championship winner", 
+              "active": "False", 
+              "bestResult": "IEM Season V - World Championship winner", 
               "name": "AcE", 
               "size": 1404
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge New York top8", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge New York top8", 
               "name": "Killer", 
               "size": 1391
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Sao Paulo top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Sao Paulo top4", 
               "name": "ReaL", 
               "size": 319
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season VII World Championship top4", 
+              "active": "True", 
+              "bestResult": "IEM Season VII World Championship top4", 
               "name": "YongHwa", 
               "size": 1908
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 LG Cinema 3D GSL May: Code S top2", 
+              "active": "False", 
+              "bestResult": "2011 LG Cinema 3D GSL May: Code S top2", 
               "name": "InCa", 
               "size": 1068
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
               "name": "TricKsteR", 
               "size": 1627
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
               "name": "HongUn", 
               "size": 668
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 Sony Ericsson Global StarCraft II League January top8", 
+              "active": "False", 
+              "bestResult": "2011 Sony Ericsson Global StarCraft II League January top8", 
               "name": "Choya", 
               "size": 1321
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "anypro", 
               "size": 541
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "LegalMind", 
               "size": 294
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "BanBans", 
               "size": 327
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Brown", 
               "size": 926
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Flying", 
               "size": 1053
             }, 
             {
-              "Active": "False", 
-              "Best Result": "The Protoss Dragon", 
+              "active": "False", 
+              "bestResult": "The Protoss Dragon", 
               "name": "JangBi", 
               "size": 466
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Blaze", 
               "size": 1082
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Ruin", 
               "size": 1110
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "ParalyzE", 
               "size": 1649
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "TAiLS", 
               "size": 1505
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Avenge", 
               "size": 1387
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Hush", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Trust", 
               "size": 1065
             }, 
             {
-              "Active": "True", 
-              "Best Result": "The Protoss Dragon", 
+              "active": "True", 
+              "bestResult": "The Protoss Dragon", 
               "name": "Stork", 
               "size": 1320
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "HwangSin", 
               "size": 888
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Cal", 
               "size": 690
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "firebathero", 
               "size": 120
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Leta", 
               "size": 697
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Believe", 
               "size": 867
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Motive", 
               "size": 582
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "eMotion", 
               "size": 1032
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Trend", 
               "size": 777
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Kop", 
               "size": 641
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Zoun", 
               "size": 1032
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Billowy", 
               "size": 1619
             }, 
             {
-              "Active": "False", 
-              "Best Result": "The Revolutionist", 
+              "active": "False", 
+              "bestResult": "The Revolutionist", 
               "name": "Bisu", 
               "size": 477
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "BeSt", 
               "size": 432
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Comet", 
               "size": 242
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Mini", 
               "size": 468
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "ToSsGirL", 
               "size": 302
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Aria", 
               "size": 540
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "BisAnG", 
               "size": 319
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "free", 
               "size": 540
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Pure", 
               "size": 46
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Argo", 
               "size": 651
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Barbie", 
               "size": 539
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Splendid", 
               "size": 316
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Remember", 
               "size": 305
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "cOre", 
               "size": 509
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "GuineaPig", 
               "size": 330
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Swagger", 
               "size": 1391
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "StuN", 
               "size": 564
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Ssoja", 
               "size": 1921
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Booster", 
               "size": 596
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "MisS", 
               "size": 974
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "AcE", 
               "size": 1311
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Hoon", 
               "size": 125
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "TREME", 
               "size": 822
             }
@@ -784,8 +784,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Krr", 
               "size": 2092
             }
@@ -795,14 +795,14 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VII - Singapore top2", 
+              "active": "False", 
+              "bestResult": "IEM Season VII - Singapore top2", 
               "name": "Grubby", 
               "size": 1374
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 2 top12", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 2 top12", 
               "name": "Harstem", 
               "size": 1609
             }
@@ -812,8 +812,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "Electronic Sports World Cup 2012 winner", 
+              "active": "True", 
+              "bestResult": "Electronic Sports World Cup 2012 winner", 
               "name": "MaNa", 
               "size": 2101
             }
@@ -823,8 +823,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "DreamHack Winter 2011 top4", 
+              "active": "True", 
+              "bestResult": "DreamHack Winter 2011 top4", 
               "name": "NightEnD", 
               "size": 2010
             }
@@ -834,26 +834,26 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "World Cyber Games 2011 top4", 
+              "active": "False", 
+              "bestResult": "World Cyber Games 2011 top4", 
               "name": "TitaN", 
               "size": 322
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 DreamHack Open: Summer top4", 
+              "active": "True", 
+              "bestResult": "2012 DreamHack Open: Summer top4", 
               "name": "fraer", 
               "size": 1706
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Kiev top8", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Kiev top8", 
               "name": "Pomi", 
               "size": 443
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Siw", 
               "size": 884
             }
@@ -863,8 +863,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "Electronic Sports World Cup 2012 top8", 
+              "active": "False", 
+              "bestResult": "Electronic Sports World Cup 2012 top8", 
               "name": "PandaTank", 
               "size": 983
             }
@@ -874,26 +874,26 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2011 MLG Global Invitational winner", 
+              "active": "True", 
+              "bestResult": "2011 MLG Global Invitational winner", 
               "name": "NaNiwa", 
               "size": 2094
             }, 
             {
-              "Active": "False", 
-              "Best Result": "ASUS ROG Summer 2011 top8", 
+              "active": "False", 
+              "bestResult": "ASUS ROG Summer 2011 top8", 
               "name": "Seiplo", 
               "size": 1493
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 MLG Pro Circuit Spring Championship", 
+              "active": "False", 
+              "bestResult": "2012 MLG Pro Circuit Spring Championship", 
               "name": "SaSe", 
               "size": 1115
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 DreamHack Open: Bucharest top4", 
+              "active": "False", 
+              "bestResult": "2012 DreamHack Open: Bucharest top4", 
               "name": "StarNaN", 
               "size": 1489
             }
@@ -903,14 +903,14 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Nifi", 
               "size": 410
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 Taiwan Open top3", 
+              "active": "True", 
+              "bestResult": "2014 Taiwan Open top3", 
               "name": "Has", 
               "size": 979
             }
@@ -920,8 +920,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IGN ProLeague Season 2 winner", 
+              "active": "True", 
+              "bestResult": "IGN ProLeague Season 2 winner", 
               "name": "White-Ra", 
               "size": 2135
             }
@@ -931,8 +931,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "World Cyber Games 2011 top8", 
+              "active": "False", 
+              "bestResult": "World Cyber Games 2011 top8", 
               "name": "BlinG", 
               "size": 1838
             }
@@ -942,74 +942,74 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "StarCraft II WCS: USA Nationals top3", 
+              "active": "False", 
+              "bestResult": "StarCraft II WCS: USA Nationals top3", 
               "name": "Insur", 
               "size": 289
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - gamescom top12", 
+              "active": "True", 
+              "bestResult": "IEM Season X - gamescom top12", 
               "name": "State", 
               "size": 1711
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 2 America top12", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 2 America top12", 
               "name": "Minigun", 
               "size": 1843
             }, 
             {
-              "Active": "True", 
-              "Best Result": "World E-sport Championships 2014 top4", 
+              "active": "True", 
+              "bestResult": "World E-sport Championships 2014 top4", 
               "name": "puCK", 
               "size": 1359
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge New York top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge New York top4", 
               "name": "Gatored", 
               "size": 443
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IGN ProLeague Season 1 top4", 
+              "active": "False", 
+              "bestResult": "IGN ProLeague Season 1 top4", 
               "name": "Axslav", 
               "size": 1206
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 Pokerstrategy.com TSL3 top8", 
+              "active": "False", 
+              "bestResult": "2011 Pokerstrategy.com TSL3 top8", 
               "name": "CrunCher", 
               "size": 535
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "hellokitty", 
               "size": 1123
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Neeb", 
               "size": 1009
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Arium", 
               "size": 916
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Astrea", 
               "size": 1615
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Hitman", 
               "size": 916
             }
@@ -1024,8 +1024,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Brain", 
               "size": 478
             }
@@ -1040,8 +1040,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 2 top12", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 2 top12", 
               "name": "iaguz", 
               "size": 1702
             }
@@ -1051,8 +1051,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Kelazhur", 
               "size": 1032
             }
@@ -1062,20 +1062,20 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - American Championships top4", 
+              "active": "False", 
+              "bestResult": "IEM Season V - American Championships top4", 
               "name": "Drewbie", 
               "size": 1194
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - American Championships top8", 
+              "active": "False", 
+              "bestResult": "IEM Season V - American Championships top8", 
               "name": "Silver", 
               "size": 242
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "MaSa", 
               "size": 1297
             }
@@ -1085,26 +1085,26 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2010 BlizzCon top2", 
+              "active": "False", 
+              "bestResult": "2010 BlizzCon top2", 
               "name": "Loner", 
               "size": 1342
             }, 
             {
-              "Active": "False", 
-              "Best Result": "Blizzcon 2010 top2", 
+              "active": "False", 
+              "bestResult": "Blizzcon 2010 top2", 
               "name": "Loner", 
               "size": 1255
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - Shenzhen top8", 
+              "active": "True", 
+              "bestResult": "IEM Season X - Shenzhen top8", 
               "name": "XY", 
               "size": 1544
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Shana", 
               "size": 861
             }
@@ -1114,8 +1114,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 1 top4", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 1 top4", 
               "name": "Bunny", 
               "size": 1715
             }
@@ -1125,8 +1125,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "DreamHack Winter 2010 winner", 
+              "active": "False", 
+              "bestResult": "DreamHack Winter 2010 winner", 
               "name": "Naama", 
               "size": 1269
             }
@@ -1136,14 +1136,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 2 top8", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 2 top8", 
               "name": "MarineLorD", 
               "size": 1499
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - European Championships top8", 
+              "active": "False", 
+              "bestResult": "IEM Season V - European Championships top8", 
               "name": "SarenS", 
               "size": 1013
             }
@@ -1153,14 +1153,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "KrasS", 
               "size": 1566
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "HeRoMaRinE", 
               "size": 1517
             }
@@ -1170,8 +1170,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "Electronic Sports World Cup 2011 top8", 
+              "active": "False", 
+              "bestResult": "Electronic Sports World Cup 2011 top8", 
               "name": "ClouD", 
               "size": 887
             }
@@ -1181,488 +1181,488 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2010 BlizzCon top6", 
+              "active": "False", 
+              "bestResult": "2010 BlizzCon top6", 
               "name": "Maka", 
               "size": 970
             }, 
             {
-              "Active": "True", 
-              "Best Result": "MLG Dallas 2011 Top3", 
+              "active": "True", 
+              "bestResult": "MLG Dallas 2011 Top3", 
               "name": "SeleCT", 
               "size": 1952
             }, 
             {
-              "Active": "False", 
-              "Best Result": "MVP, nuff said.", 
+              "active": "False", 
+              "bestResult": "MVP, nuff said.", 
               "name": "Mvp", 
               "size": 1465
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 Global StarCraft II League Season 3 winner", 
+              "active": "True", 
+              "bestResult": "2014 Global StarCraft II League Season 3 winner", 
               "name": "INnoVation", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 1 winner", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 1 winner", 
               "name": "Polt", 
               "size": 1940
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 1 winner", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 1 winner", 
               "name": "Maru", 
               "size": 1905
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 2 winner", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 2 winner", 
               "name": "Bomber", 
               "size": 1829
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 WCS Global Finals top2", 
+              "active": "False", 
+              "bestResult": "2014 WCS Global Finals top2", 
               "name": "MMA", 
               "size": 1847
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 DreamHack Open: Winter winner", 
+              "active": "True", 
+              "bestResult": "2013 DreamHack Open: Winter winner", 
               "name": "TaeJa", 
               "size": 1888
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IGN ProLeague Season 4 winner", 
+              "active": "True", 
+              "bestResult": "IGN ProLeague Season 4 winner", 
               "name": "aLive", 
               "size": 1862
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 DreamHack Open: Winter win", 
+              "active": "True", 
+              "bestResult": "2014 DreamHack Open: Winter win", 
               "name": "ForGG", 
               "size": 1553
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 Global StarCraft II League Season 5 top4", 
+              "active": "True", 
+              "bestResult": "2012 Global StarCraft II League Season 5 top4", 
               "name": "Ryung", 
               "size": 1905
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 3 America top6", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 3 America top6", 
               "name": "Hack", 
               "size": 1900
             }, 
             {
-              "Active": "False", 
-              "Best Result": "DEITY", 
+              "active": "False", 
+              "bestResult": "DEITY", 
               "name": "Flash", 
               "size": 1290
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Sao Paulo top2", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Sao Paulo top2", 
               "name": "SuperNova", 
               "size": 1648
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 1 America top16", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 1 America top16", 
               "name": "Apocalypse", 
               "size": 1431
             }, 
             {
-              "Active": "False", 
-              "Best Result": "MLG Pro Circuit 2012 Ð Summer Championship top4", 
+              "active": "False", 
+              "bestResult": "MLG Pro Circuit 2012 Ð Summer Championship top4", 
               "name": "TheStC", 
               "size": 1460
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 Global StarCraft II League Season 1: Code S top4", 
+              "active": "True", 
+              "bestResult": "2012 Global StarCraft II League Season 1: Code S top4", 
               "name": "GuMiho", 
               "size": 1863
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2011 Global StarCraft II League November: Code S winner", 
+              "active": "True", 
+              "bestResult": "2011 Global StarCraft II League November: Code S winner", 
               "name": "jjakji", 
               "size": 1770
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 WCS Season 3 America top2", 
+              "active": "False", 
+              "bestResult": "2014 WCS Season 3 America top2", 
               "name": "Heart", 
               "size": 1552
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VII - World Championship", 
+              "active": "False", 
+              "bestResult": "IEM Season VII - World Championship", 
               "name": "YoDa", 
               "size": 1722
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 Red Bull Battle Grounds: Washington top2", 
+              "active": "True", 
+              "bestResult": "2014 Red Bull Battle Grounds: Washington top2", 
               "name": "Cure", 
               "size": 1263
             }, 
             {
-              "Active": "True", 
-              "Best Result": "Multiple runner-up in SSL", 
+              "active": "True", 
+              "bestResult": "Multiple runner-up in SSL", 
               "name": "Dream", 
               "size": 1842
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - gamescom top4", 
+              "active": "True", 
+              "bestResult": "IEM Season X - gamescom top4", 
               "name": "FanTasy", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 3 top4", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 3 top4", 
               "name": "TY", 
               "size": 1518
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season IX - World Championship top4", 
+              "active": "True", 
+              "bestResult": "IEM Season IX - World Championship top4", 
               "name": "Bbyong", 
               "size": 1313
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 MLG Winter Championship winner", 
+              "active": "True", 
+              "bestResult": "2012 MLG Winter Championship winner", 
               "name": "MarineKing", 
               "size": 1906
             }, 
             {
-              "Active": "False", 
-              "Best Result": "North American Star League Season 2 winner", 
+              "active": "False", 
+              "bestResult": "North American Star League Season 2 winner", 
               "name": "PuMa", 
               "size": 725
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2011 GSL August: Code S top2", 
+              "active": "True", 
+              "bestResult": "2011 GSL August: Code S top2", 
               "name": "TOP", 
               "size": 1951
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VII - Singapore winner", 
+              "active": "False", 
+              "bestResult": "IEM Season VII - Singapore winner", 
               "name": "Sting", 
               "size": 439
             }, 
             {
-              "Active": "True", 
-              "Best Result": "TeamLiquid StarLeague 4 top4", 
+              "active": "True", 
+              "bestResult": "TeamLiquid StarLeague 4 top4", 
               "name": "KeeN", 
               "size": 1842
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season 1 top2", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season 1 top2", 
               "name": "RainBOw", 
               "size": 700
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season top4", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season top4", 
               "name": "LiveForever", 
               "size": 186
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season 1 top4", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season 1 top4", 
               "name": "Ensnare", 
               "size": 348
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
+              "active": "False", 
+              "bestResult": "2010 TG Sambo Intel Starcraft II Open Season 1 top8", 
               "name": "Maka", 
               "size": 970
             }, 
             {
-              "Active": "False", 
-              "Best Result": "The Emperor", 
+              "active": "False", 
+              "bestResult": "The Emperor", 
               "name": "BoxeR", 
               "size": 1083
             }, 
             {
-              "Active": "False", 
-              "Best Result": "Bonjwa", 
+              "active": "False", 
+              "bestResult": "Bonjwa", 
               "name": "NaDa", 
               "size": 616
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 GSL Super Tournament top8", 
+              "active": "False", 
+              "bestResult": "2011 GSL Super Tournament top8", 
               "name": "TheBest", 
               "size": 1096
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Hyperdub", 
               "size": 338
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Clide", 
               "size": 698
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Lyn", 
               "size": 267
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "sC", 
               "size": 1412
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Virus", 
               "size": 497
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Happy", 
               "size": 638
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Noblesse", 
               "size": 1337
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "asd", 
               "size": 724
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "GanZi", 
               "size": 1107
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Last", 
               "size": 579
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 DreamHack Open: Stockholm top4", 
+              "active": "True", 
+              "bestResult": "2015 DreamHack Open: Stockholm top4", 
               "name": "Reality", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Sorry", 
               "size": 1584
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "SkyHigh", 
               "size": 1286
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Shuttle", 
               "size": 955
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Canata", 
               "size": 60
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Iris", 
               "size": 217
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Organ", 
               "size": 499
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Snow", 
               "size": 751
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Horang2", 
               "size": 206
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Miso", 
               "size": 1199
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "BarrrackS", 
               "size": 582
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Mind", 
               "size": 667
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "BrAvO", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Guilty", 
               "size": 1009
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Journey", 
               "size": 1001
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "TurN", 
               "size": 907
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sharp", 
               "size": 143
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "DynaMite", 
               "size": 773
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "sSak", 
               "size": 590
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Hanbin", 
               "size": 284
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Light", 
               "size": 485
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sea", 
               "size": 409
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Neige", 
               "size": 410
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "TANGTANG", 
               "size": 276
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Forte", 
               "size": 1390
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "eins", 
               "size": 363
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "BitByBit", 
               "size": 813
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "dreamertt", 
               "size": 517
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "NaTuRal", 
               "size": 157
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Center", 
               "size": 1092
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Aphrodite", 
               "size": 1460
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sound", 
               "size": 1053
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sparta", 
               "size": 673
             }
@@ -1672,14 +1672,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IEM Season VIII - Sao Paulo top8", 
+              "active": "True", 
+              "bestResult": "IEM Season VIII - Sao Paulo top8", 
               "name": "MajOr", 
               "size": 1744
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Maker", 
               "size": 1335
             }
@@ -1689,8 +1689,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "HomeStory Cup IX top4", 
+              "active": "True", 
+              "bestResult": "HomeStory Cup IX top4", 
               "name": "Dayshi", 
               "size": 1706
             }
@@ -1700,14 +1700,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - Shenzhen top8", 
+              "active": "True", 
+              "bestResult": "IEM Season X - Shenzhen top8", 
               "name": "uThermal", 
               "size": 1532
             }, 
             {
-              "Active": "False", 
-              "Best Result": "DreamHack Winter 2010 top8", 
+              "active": "False", 
+              "bestResult": "DreamHack Winter 2010 top8", 
               "name": "ServaNT", 
               "size": 639
             }
@@ -1717,8 +1717,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - American Championships winner", 
+              "active": "False", 
+              "bestResult": "IEM Season V - American Championships winner", 
               "name": "Fenix", 
               "size": 1311
             }
@@ -1728,8 +1728,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - European Championships top4", 
+              "active": "False", 
+              "bestResult": "IEM Season V - European Championships top4", 
               "name": "Tarson", 
               "size": 1228
             }
@@ -1739,14 +1739,14 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "ASUS ROG Summer 2011 top4", 
+              "active": "False", 
+              "bestResult": "ASUS ROG Summer 2011 top4", 
               "name": "Brat_OK", 
               "size": 1219
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - gamescom top12", 
+              "active": "True", 
+              "bestResult": "IEM Season X - gamescom top12", 
               "name": "Happy", 
               "size": 1744
             }
@@ -1756,8 +1756,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: Europe top3", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: Europe top3", 
               "name": "LucifroN", 
               "size": 1217
             }
@@ -1767,20 +1767,20 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 DreamHack Open Stockholm winner", 
+              "active": "False", 
+              "bestResult": "2012 DreamHack Open Stockholm winner", 
               "name": "ThorZaIN", 
               "size": 1041
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - European Championships winner", 
+              "active": "False", 
+              "bestResult": "IEM Season V - European Championships winner", 
               "name": "SjoW", 
               "size": 1403
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 Sony Ericsson Global StarCraft II League January top4", 
+              "active": "False", 
+              "bestResult": "2011 Sony Ericsson Global StarCraft II League January top4", 
               "name": "Jinro", 
               "size": 861
             }
@@ -1790,8 +1790,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2010 BlizzCon top12", 
+              "active": "False", 
+              "bestResult": "2010 BlizzCon top12", 
               "name": "Ball", 
               "size": 860
             }
@@ -1801,8 +1801,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 StarCraft II World Championship Series: Southeast Asia Nationals top2", 
+              "active": "False", 
+              "bestResult": "2012 StarCraft II World Championship Series: Southeast Asia Nationals top2", 
               "name": "RedArchon", 
               "size": 686
             }
@@ -1812,14 +1812,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "World Cyber Games 2011 top3", 
+              "active": "True", 
+              "bestResult": "World Cyber Games 2011 top3", 
               "name": "Kas", 
               "size": 1857
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Guangzhou top8", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Guangzhou top8", 
               "name": "Strelok", 
               "size": 1850
             }
@@ -1829,8 +1829,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IEM Europe season V Top3", 
+              "active": "True", 
+              "bestResult": "IEM Europe season V Top3", 
               "name": "DeMuslim", 
               "size": 2062
             }
@@ -1840,32 +1840,32 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "MLG Dallas 2010 top4", 
+              "active": "False", 
+              "bestResult": "MLG Dallas 2010 top4", 
               "name": "NonY", 
               "size": 1015
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - American Championships top2", 
+              "active": "False", 
+              "bestResult": "IEM Season V - American Championships top2", 
               "name": "qxc", 
               "size": 2032
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "theognis", 
               "size": 772
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Illusion", 
               "size": 1645
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Xenocider", 
               "size": 1268
             }
@@ -1880,26 +1880,26 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - World Championship top4", 
+              "active": "False", 
+              "bestResult": "IEM Season V - World Championship top4", 
               "name": "mOOnGLaDe", 
               "size": 1289
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 StarCraft II World Championship Series: Oceania Finals top2", 
+              "active": "False", 
+              "bestResult": "2012 StarCraft II World Championship Series: Oceania Finals top2", 
               "name": "MaFia", 
               "size": 725
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 StarCraft II World Championship Series: Oceania Finals top4", 
+              "active": "False", 
+              "bestResult": "2012 StarCraft II World Championship Series: Oceania Finals top4", 
               "name": "tgun", 
               "size": 854
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "PiG", 
               "size": 1530
             }
@@ -1909,8 +1909,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "World Cyber Games 2012 top4", 
+              "active": "False", 
+              "bestResult": "World Cyber Games 2012 top4", 
               "name": "LoWeLy", 
               "size": 1120
             }
@@ -1920,8 +1920,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: South America top4", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: South America top4", 
               "name": "Tunico", 
               "size": 1304
             }
@@ -1931,26 +1931,26 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2013 ASUS ROG: NorthCon top2", 
+              "active": "True", 
+              "bestResult": "2013 ASUS ROG: NorthCon top2", 
               "name": "Scarlett", 
               "size": 1566
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: Canada top2", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: Canada top2", 
               "name": "Ostojiy", 
               "size": 977
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 1 top8", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 1 top8", 
               "name": "Kane", 
               "size": 1503
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "hendralisk", 
               "size": 802
             }
@@ -1960,8 +1960,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge New York top3", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge New York top3", 
               "name": "KiLLer", 
               "size": 1150
             }
@@ -1971,38 +1971,38 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2010 BlizzCon top8", 
+              "active": "False", 
+              "bestResult": "2010 BlizzCon top8", 
               "name": "Luffy", 
               "size": 179
             }, 
             {
-              "Active": "True", 
-              "Best Result": "NESO 2015 winner", 
+              "active": "True", 
+              "bestResult": "NESO 2015 winner", 
               "name": "TooDming", 
               "size": 1767
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 StarCraft II World Championship Series: China Nationals winner", 
+              "active": "False", 
+              "bestResult": "2012 StarCraft II World Championship Series: China Nationals winner", 
               "name": "Comm", 
               "size": 1299
             }, 
             {
-              "Active": "True", 
-              "Best Result": "World Cyber Games 2011 top2", 
+              "active": "True", 
+              "bestResult": "World Cyber Games 2011 top2", 
               "name": "XiGua", 
               "size": 1872
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Courage", 
               "size": 1515
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "iAsonu", 
               "size": 760
             }
@@ -2012,8 +2012,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 1 top12", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 1 top12", 
               "name": "Serral", 
               "size": 1365
             }
@@ -2023,14 +2023,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2012 World Championship Series: Europe winner", 
+              "active": "True", 
+              "bestResult": "2012 World Championship Series: Europe winner", 
               "name": "Stephano", 
               "size": 1950
             }, 
             {
-              "Active": "True", 
-              "Best Result": "DreamHack ROCCAT LotV Championship top3", 
+              "active": "True", 
+              "bestResult": "DreamHack ROCCAT LotV Championship top3", 
               "name": "FireCake", 
               "size": 1460
             }
@@ -2040,20 +2040,20 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IEM Sao Paulo season VIII Top4", 
+              "active": "True", 
+              "bestResult": "IEM Sao Paulo season VIII Top4", 
               "name": "TLO", 
               "size": 2105
             }, 
             {
-              "Active": "False", 
-              "Best Result": "North American Star League Season 1 top8", 
+              "active": "False", 
+              "bestResult": "North American Star League Season 1 top8", 
               "name": "DarKFoRcE", 
               "size": 995
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IEM Season X - gamescom top8", 
+              "active": "True", 
+              "bestResult": "IEM Season X - gamescom top8", 
               "name": "Lambo", 
               "size": 1003
             }
@@ -2063,8 +2063,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "iceiceice", 
               "size": 1206
             }
@@ -2074,434 +2074,434 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2011 GSL July - Code S winner", 
+              "active": "True", 
+              "bestResult": "2011 GSL July - Code S winner", 
               "name": "NesTea", 
               "size": 1917
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2013 Global StarCraft II League Season 1 winner", 
+              "active": "False", 
+              "bestResult": "2013 Global StarCraft II League Season 1 winner", 
               "name": "RorO", 
               "size": 1105
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 DreamHack Open: Valencia winner", 
+              "active": "True", 
+              "bestResult": "2015 DreamHack Open: Valencia winner", 
               "name": "Curious", 
               "size": 1581
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 WCS Season 1 South Korea GSL winner", 
+              "active": "True", 
+              "bestResult": "2013 WCS Season 1 South Korea GSL winner", 
               "name": "Soulkey", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "World E-sport Championships 2014 winner", 
+              "active": "True", 
+              "bestResult": "World E-sport Championships 2014 winner", 
               "name": "Jaedong", 
               "size": 1518
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VIII - Shanghai winner", 
+              "active": "False", 
+              "bestResult": "IEM Season VIII - Shanghai winner", 
               "name": "Revival", 
               "size": 1862
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Season 1 America winner", 
+              "active": "True", 
+              "bestResult": "2014 WCS Season 1 America winner", 
               "name": "HyuN", 
               "size": 1494
             }, 
             {
-              "Active": "True", 
-              "Best Result": "The best runner-up in the history of the game", 
+              "active": "True", 
+              "bestResult": "The best runner-up in the history of the game", 
               "name": "soO", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 StarCraft II StarLeague Season 3 top2", 
+              "active": "True", 
+              "bestResult": "2015 StarCraft II StarLeague Season 3 top2", 
               "name": "ByuL", 
               "size": 1382
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Global Finals winner", 
+              "active": "True", 
+              "bestResult": "2014 WCS Global Finals winner", 
               "name": "Life", 
               "size": 1763
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 Global StarCraft II League Season 1 2 top2", 
+              "active": "True", 
+              "bestResult": "2013 Global StarCraft II League Season 1 2 top2", 
               "name": "Symbol", 
               "size": 1695
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2011 GSL July: Code S top2", 
+              "active": "True", 
+              "bestResult": "2011 GSL July: Code S top2", 
               "name": "Losira", 
               "size": 1917
             }, 
             {
-              "Active": "True", 
-              "Best Result": "IGN ProLeague Season 5 winner", 
+              "active": "True", 
+              "bestResult": "IGN ProLeague Season 5 winner", 
               "name": "Leenock", 
               "size": 1909
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 MLG Spring Championship winner", 
+              "active": "True", 
+              "bestResult": "2012 MLG Spring Championship winner", 
               "name": "DongRaeGu", 
               "size": 1983
             }, 
             {
-              "Active": "True", 
-              "Best Result": "DreamHack ROCCAT LotV Championship winner", 
+              "active": "True", 
+              "bestResult": "DreamHack ROCCAT LotV Championship winner", 
               "name": "Solar", 
               "size": 1358
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 MLG Spring Arena 2 winner", 
+              "active": "True", 
+              "bestResult": "2012 MLG Spring Arena 2 winner", 
               "name": "viOLet", 
               "size": 1718
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 WCS Season 2 Europe top4", 
+              "active": "False", 
+              "bestResult": "2014 WCS Season 2 Europe top4", 
               "name": "Golden", 
               "size": 1406
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 DreamHack Open: Valencia top2", 
+              "active": "True", 
+              "bestResult": "2015 DreamHack Open: Valencia top2", 
               "name": "TRUE", 
               "size": 1518
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 DreamHack Open: Valencia winner", 
+              "active": "True", 
+              "bestResult": "2014 DreamHack Open: Valencia winner", 
               "name": "Sacsri", 
               "size": 1518
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 WCS Season 3 America top12", 
+              "active": "False", 
+              "bestResult": "2014 WCS Season 3 America top12", 
               "name": "Check", 
               "size": 1457
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Global Finals top4", 
+              "active": "True", 
+              "bestResult": "2015 WCS Global Finals top4", 
               "name": "Rogue", 
               "size": 1518
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 2 winner", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 2 winner", 
               "name": "Hydra", 
               "size": 1698
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 KeSPA Cup Season 1 top2", 
+              "active": "True", 
+              "bestResult": "2015 KeSPA Cup Season 1 top2", 
               "name": "Dark", 
               "size": 1385
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 Global Starcraft II League March top2", 
+              "active": "False", 
+              "bestResult": "2011 Global Starcraft II League March top2", 
               "name": "JulyZerg", 
               "size": 603
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - World Championship top2", 
+              "active": "False", 
+              "bestResult": "IEM Season V - World Championship top2", 
               "name": "Moon", 
               "size": 761
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 DreamHack Open: Stockholm top4", 
+              "active": "False", 
+              "bestResult": "2012 DreamHack Open: Stockholm top4", 
               "name": "NAKSEO", 
               "size": 580
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2011 MLG Raleigh top2", 
+              "active": "False", 
+              "bestResult": "2011 MLG Raleigh top2", 
               "name": "CoCa", 
               "size": 1114
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "YugiOh", 
               "size": 1140
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 DreamHack Open: Bucharest top2", 
+              "active": "True", 
+              "bestResult": "2014 DreamHack Open: Bucharest top2", 
               "name": "Impact", 
               "size": 1739
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2014 DreamHack Open: Moscow top8", 
+              "active": "False", 
+              "bestResult": "2014 DreamHack Open: Moscow top8", 
               "name": "BBoongBBoong", 
               "size": 1533
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 Global StarCraft II League Open Season 1 winner", 
+              "active": "False", 
+              "bestResult": "2010 Global StarCraft II League Open Season 1 winner", 
               "name": "FruitDealer", 
               "size": 559
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Kiev top4", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Kiev top4", 
               "name": "Zenio", 
               "size": 1267
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VIII - Singapore top8", 
+              "active": "False", 
+              "bestResult": "IEM Season VIII - Singapore top8", 
               "name": "EffOrt", 
               "size": 1280
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IGN ProLeague Season 3 top2", 
+              "active": "False", 
+              "bestResult": "IGN ProLeague Season 3 top2", 
               "name": "Lucky", 
               "size": 1194
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2010 Sony Ericsson StarCraft II Open Season 2 top8", 
+              "active": "False", 
+              "bestResult": "2010 Sony Ericsson StarCraft II Open Season 2 top8", 
               "name": "Kyrix", 
               "size": 336
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "jookTo", 
               "size": 957
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "TheWinD", 
               "size": 423
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "SuHoSin", 
               "size": 1457
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sniper", 
               "size": 1404
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Crazy", 
               "size": 582
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Shine", 
               "size": 1320
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "RagnaroK", 
               "size": 1614
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "hyvaa", 
               "size": 802
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Sleep", 
               "size": 1872
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "SonGDuri", 
               "size": 569
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "PenguiN", 
               "size": 1064
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "OriOn", 
               "size": 60
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Rare", 
               "size": 663
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Action", 
               "size": 1074
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "hitmaN", 
               "size": 851
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "HoeJJA", 
               "size": 851
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Cacia", 
               "size": 582
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Armani", 
               "size": 1032
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "oDin", 
               "size": 850
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Mamuri", 
               "size": 1400
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "s2", 
               "size": 253
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "SSanaEE", 
               "size": 386
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "YoungJoo", 
               "size": 522
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Calm", 
               "size": 449
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Modesty", 
               "size": 195
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "KassiA", 
               "size": 585
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "ZerO", 
               "size": 522
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Adios", 
               "size": 393
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "DeParture", 
               "size": 1527
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Ready", 
               "size": 517
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "horror", 
               "size": 1908
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Mysticism", 
               "size": 1544
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "CrazymoviNG", 
               "size": 1337
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Pet", 
               "size": 1527
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Slam", 
               "size": 1100
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Zero", 
               "size": 817
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "KingKong", 
               "size": 1580
             }
@@ -2511,8 +2511,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "SteelSeries StarCraft II Challenge winner", 
+              "active": "True", 
+              "bestResult": "SteelSeries StarCraft II Challenge winner", 
               "name": "Ret", 
               "size": 2119
             }
@@ -2522,14 +2522,14 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "JazBas", 
               "size": 913
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 3 top8", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 3 top8", 
               "name": "Petraeus", 
               "size": 1351
             }
@@ -2539,14 +2539,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "World E-sport Championships 2014 top2", 
+              "active": "True", 
+              "bestResult": "World E-sport Championships 2014 top2", 
               "name": "Snute", 
               "size": 1675
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 DreamHack Open: Valencia top4", 
+              "active": "True", 
+              "bestResult": "2012 DreamHack Open: Valencia top4", 
               "name": "TargA", 
               "size": 1741
             }
@@ -2556,26 +2556,26 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2012 DreamHack Open: Bucharest winner", 
+              "active": "True", 
+              "bestResult": "2012 DreamHack Open: Bucharest winner", 
               "name": "Nerchio", 
               "size": 1860
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Tefel", 
               "size": 1939
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "uzer", 
               "size": 245
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Elazer", 
               "size": 758
             }
@@ -2585,14 +2585,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "IEM Season VII - Singapore top4", 
+              "active": "True", 
+              "bestResult": "IEM Season VII - Singapore top4", 
               "name": "sLivko", 
               "size": 1844
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 WCS Season 2 Europe top12", 
+              "active": "True", 
+              "bestResult": "2014 WCS Season 2 Europe top12", 
               "name": "LiveZerg", 
               "size": 1557
             }
@@ -2602,8 +2602,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2014 DreamHack Open: Valencia top8", 
+              "active": "True", 
+              "bestResult": "2014 DreamHack Open: Valencia top8", 
               "name": "Starbuck", 
               "size": 1128
             }
@@ -2613,8 +2613,8 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: Europe top2", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: Europe top2", 
               "name": "VortiX", 
               "size": 1605
             }
@@ -2624,20 +2624,20 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2015 WCS Season 3 top4", 
+              "active": "True", 
+              "bestResult": "2015 WCS Season 3 top4", 
               "name": "Zanster", 
               "size": 1051
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season V - Global Challenge Cologne top8", 
+              "active": "False", 
+              "bestResult": "IEM Season V - Global Challenge Cologne top8", 
               "name": "MaDFroG", 
               "size": 158
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "Miniraser", 
               "size": 1819
             }
@@ -2647,32 +2647,32 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "2014 Taiwan open Winner", 
+              "active": "True", 
+              "bestResult": "2014 Taiwan open Winner", 
               "name": "Sen", 
               "size": 2105
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 StarCraft II World Championship Series: Asia Finals top24", 
+              "active": "True", 
+              "bestResult": "2012 StarCraft II World Championship Series: Asia Finals top24", 
               "name": "AK", 
               "size": 1461
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2014 Taiwan Open top4", 
+              "active": "True", 
+              "bestResult": "2014 Taiwan Open top4", 
               "name": "Ian", 
               "size": 1241
             }, 
             {
-              "Active": "True", 
-              "Best Result": "World Cyber Games 2011 top8", 
+              "active": "True", 
+              "bestResult": "World Cyber Games 2011 top8", 
               "name": "F91", 
               "size": 1882
             }, 
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Slam", 
               "size": 724
             }
@@ -2682,14 +2682,14 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "ASUS ROG Summer 2011 winner", 
+              "active": "True", 
+              "bestResult": "ASUS ROG Summer 2011 winner", 
               "name": "DIMAGA", 
               "size": 2041
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 DreamHack Open: Bucharest top2", 
+              "active": "True", 
+              "bestResult": "2012 DreamHack Open: Bucharest top2", 
               "name": "Bly", 
               "size": 1900
             }
@@ -2699,8 +2699,8 @@
         {
           "children": [
             {
-              "Active": "True", 
-              "Best Result": "TeamLiquid StarLeague 4 top8", 
+              "active": "True", 
+              "bestResult": "TeamLiquid StarLeague 4 top8", 
               "name": "JonnyREcco", 
               "size": 1456
             }
@@ -2710,44 +2710,44 @@
         {
           "children": [
             {
-              "Active": "False", 
-              "Best Result": "", 
+              "active": "False", 
+              "bestResult": "", 
               "name": "Sheth", 
               "size": 1013
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: North America top2", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: North America top2", 
               "name": "ViBE", 
               "size": 1276
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2012 Battle.net World Championship top8", 
+              "active": "True", 
+              "bestResult": "2012 Battle.net World Championship top8", 
               "name": "Suppy", 
               "size": 1714
             }, 
             {
-              "Active": "False", 
-              "Best Result": "IEM Season VI - Global Challenge Guangzhou winner", 
+              "active": "False", 
+              "bestResult": "IEM Season VI - Global Challenge Guangzhou winner", 
               "name": "IdrA", 
               "size": 1017
             }, 
             {
-              "Active": "False", 
-              "Best Result": "2012 World Championship Series: USA Nationals top2", 
+              "active": "False", 
+              "bestResult": "2012 World Championship Series: USA Nationals top2", 
               "name": "daisuki", 
               "size": 8
             }, 
             {
-              "Active": "True", 
-              "Best Result": "2013 DreamHack Open: Valencia top4", 
+              "active": "True", 
+              "bestResult": "2013 DreamHack Open: Valencia top4", 
               "name": "Goswser", 
               "size": 1506
             }, 
             {
-              "Active": "True", 
-              "Best Result": "", 
+              "active": "True", 
+              "bestResult": "", 
               "name": "guitarcheese", 
               "size": 1024
             }
